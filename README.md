@@ -1,0 +1,2 @@
+# Correlation-in-movie-s-dataset
+In the movie industry there is a high correlation among the factors such as gross collection, budget, votes, genre and so on. With the data frame obtained after data cleaning, this project does a basic exploratory data analysis to visualize the correlation among the factors. Tools and Technologies: Python, Excel, Google Colab. Python libraries: Numpy, Pandas, Matplotlib, Seaborn.
